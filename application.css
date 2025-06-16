@@ -1,0 +1,10 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.root {
+    -fx-background-color: lightblue;
+    -fx-font-size: 20;
+    -fx-alignment: center;
+    -fx-background-image: url("https://imgs.search.brave.com/3n8V8jMHTs7VEGb3RRlDE9vu_3ylSpsuJDUpKaS8orU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE0LzAwLzQ0LzE4/LzM2MF9GXzE0MDA0/NDE4NjhfbGZUMlBB/OHEzdzFWUG5lN0RM/blBtWk5Yb0VDbG11/T1guanBn");
+	-fx-background-repeat: no-repeat;
+	-fx-background-size: cover;
+	-fx-background-position: center;
+}
